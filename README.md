@@ -4,7 +4,7 @@ Putin Coin - PUT
 
 Putin Coin is a POW\PoS -based cryptocurrency.
 
-Development process
+information
 ===========================
 
 SPECIFICATIONS
