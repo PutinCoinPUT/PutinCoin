@@ -19,7 +19,7 @@ POW Block reward: 100 Coins
 
 Max supply: 90 Billion
 
-PoS:  100% Interest Yearly.
+PoS:  25% Interest Yearly.
 
 Min.Coin age: 8 Hour
 
