@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PutinCoin</source>
-        <translation>О PutinCoin</translation>
+        <source>About PUTinCoin</source>
+        <translation>О PUTinCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PutinCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;PutinCoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;PUTinCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;PUTinCoin&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</source>
+Copyright © 2014 The PUTinCoin developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики PutinCoin</translation>
+Все права защищены © 2014 Разработчики PUTinCoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PutinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your PUTinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PutinCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом PutinCoin</translation>
+        <source>Sign a message to prove you own a PUTinCoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом PUTinCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PutinCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом PutinCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified PUTinCoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом PUTinCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>PutinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>PUTinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about PutinCoin</source>
-        <translation>Показать информацию о PutinCoin&apos;е</translation>
+        <source>Show information about PUTinCoin</source>
+        <translation>Показать информацию о PUTinCoin&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a PutinCoin address</source>
-        <translation>Отправить монеты на указанный адрес PutinCoin</translation>
+        <source>Send coins to a PUTinCoin address</source>
+        <translation>Отправить монеты на указанный адрес PUTinCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for PutinCoin</source>
-        <translation>Изменить параметры конфигурации PutinCoin</translation>
+        <source>Modify configuration options for PUTinCoin</source>
+        <translation>Изменить параметры конфигурации PUTinCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About PutinCoin</source>
-        <translation>&amp;О PutinCoin</translation>
+        <source>&amp;About PUTinCoin</source>
+        <translation>&amp;О PUTinCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PutinCoin client</source>
-        <translation>PutinCoin клиент</translation>
+        <source>PUTinCoin client</source>
+        <translation>PUTinCoin клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to PutinCoin network</source>
+        <source>%n active connection(s) to PUTinCoin network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -659,8 +659,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PutinCoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом PutinCoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid PUTinCoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом PUTinCoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PutinCoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. PutinCoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. PUTinCoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. PUTinCoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1039,8 +1039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PutinCoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным PutinCoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PUTinCoin address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным PUTinCoin-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1058,8 +1058,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PutinCoin-Qt</source>
-        <translation>PutinCoin-Qt</translation>
+        <source>PUTinCoin-Qt</source>
+        <translation>PUTinCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1131,13 +1131,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PutinCoin after logging in to the system.</source>
-        <translation>Автоматически запускать PutinCoin после входа в систему</translation>
+        <source>Automatically start PUTinCoin after logging in to the system.</source>
+        <translation>Автоматически запускать PUTinCoin после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PutinCoin on system login</source>
-        <translation>&amp;Запускать PutinCoin при входе в систему</translation>
+        <source>&amp;Start PUTinCoin on system login</source>
+        <translation>&amp;Запускать PUTinCoin при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1156,8 +1156,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PutinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для PutinCoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the PUTinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для PUTinCoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PutinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети PutinCoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the PUTinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети PUTinCoin через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,8 +1241,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PutinCoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска PutinCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска PUTinCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1256,8 +1256,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PutinCoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса PutinCoin в списке транзакций.</translation>
+        <source>Whether to show PUTinCoin addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса PUTinCoin в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1303,8 +1303,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PutinCoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска PutinCoin</translation>
+        <source>This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Эта настройка вступит в силу после перезапуска PUTinCoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1322,8 +1322,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PutinCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью PutinCoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUTinCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью PUTinCoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1538,8 +1538,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PutinCoin-Qt help message to get a list with possible PutinCoin command-line options.</source>
-        <translation>Показать помощь по PutinCoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the PUTinCoin-Qt help message to get a list with possible PUTinCoin command-line options.</source>
+        <translation>Показать помощь по PUTinCoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1558,13 +1558,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>PutinCoin - Debug window</source>
-        <translation>PutinCoin - Окно отладки</translation>
+        <source>PUTinCoin - Debug window</source>
+        <translation>PUTinCoin - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PutinCoin Core</source>
-        <translation>Ядро PutinCoin</translation>
+        <source>PUTinCoin Core</source>
+        <translation>Ядро PUTinCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1573,8 +1573,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PutinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл PutinCoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the PUTinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл PUTinCoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PutinCoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль PutinCoin.</translation>
+        <source>Welcome to the PUTinCoin RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль PUTinCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите PutinCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите PUTinCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1842,7 +1842,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PutinCoin address</source>
+        <source>WARNING: Invalid PUTinCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1916,8 +1916,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите PutinCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите PUTinCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1977,8 +1977,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PutinCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом PutinCoin</translation>
+        <source>Sign the message to prove you own this PUTinCoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом PUTinCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2009,8 +2009,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PutinCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом PutinCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified PUTinCoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом PUTinCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2020,8 +2020,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес PutinCoin (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите адрес PUTinCoin (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PutinCoin signature</source>
-        <translation>Введите подпись PutinCoin</translation>
+        <source>Enter PUTinCoin signature</source>
+        <translation>Введите подпись PUTinCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2601,7 +2601,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PutinCoin version</source>
+        <source>PUTinCoin version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2611,8 +2611,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or PutinCoind</source>
-        <translation>Отправить команду на -server или PutinCoind</translation>
+        <source>Send command to -server or PUTinCoind</source>
+        <translation>Отправить команду на -server или PUTinCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2632,13 +2632,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: PutinCoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: PutinCoin.conf)</translation>
+        <source>Specify configuration file (default: PUTinCoin.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: PUTinCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: PutinCoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: PutinCoind.pid)</translation>
+        <source>Specify pid file (default: PUTinCoind.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: PUTinCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2787,8 +2787,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PutinCoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, PutinCoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUTinCoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, PUTinCoin будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2977,13 +2977,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3109,13 +3109,13 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PutinCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  PUTinCoin is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PutinCoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию PutinCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PUTinCoin</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию PUTinCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PutinCoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите PutinCoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart PUTinCoin to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите PUTinCoin для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3224,8 +3224,8 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PutinCoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, PutinCoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. PUTinCoin is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, PUTinCoin уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

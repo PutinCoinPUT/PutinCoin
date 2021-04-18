@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PutinCoin</source>
-        <translation>Despre PutinCoin</translation>
+        <source>About PUTinCoin</source>
+        <translation>Despre PUTinCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PutinCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;PutinCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;PUTinCoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;PUTinCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</source>
+Copyright © 2014 The PUTinCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</translation>
+Copyright © 2014 The PUTinCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PutinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele PutinCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your PUTinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele PUTinCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PutinCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă PutinCoin</translation>
+        <source>Sign a message to prove you own a PUTinCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă PUTinCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PutinCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă PutinCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified PUTinCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă PUTinCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>PutinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PutinCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>PUTinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>PUTinCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about PutinCoin</source>
-        <translation>Arată informații despre PutinCoin</translation>
+        <source>Show information about PUTinCoin</source>
+        <translation>Arată informații despre PUTinCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a PutinCoin address</source>
-        <translation>Trimite monede către o adresă PutinCoin</translation>
+        <source>Send coins to a PUTinCoin address</source>
+        <translation>Trimite monede către o adresă PUTinCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for PutinCoin</source>
-        <translation>Modifică opțiuni de configurare pentru PutinCoin</translation>
+        <source>Modify configuration options for PUTinCoin</source>
+        <translation>Modifică opțiuni de configurare pentru PUTinCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About PutinCoin</source>
-        <translation>Despre PutinCoin</translation>
+        <source>&amp;About PUTinCoin</source>
+        <translation>Despre PUTinCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PutinCoin client</source>
-        <translation>Clientul PutinCoin</translation>
+        <source>PUTinCoin client</source>
+        <translation>Clientul PUTinCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to PutinCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua PutinCoin</numerusform><numerusform>%n conexiuni active la reteaua PutinCoin</numerusform><numerusform>%n conexiuni active la reteaua PutinCoin</numerusform></translation>
+        <source>%n active connection(s) to PUTinCoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua PUTinCoin</numerusform><numerusform>%n conexiuni active la reteaua PUTinCoin</numerusform><numerusform>%n conexiuni active la reteaua PUTinCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PutinCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa PutinCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid PUTinCoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa PUTinCoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PutinCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. PutinCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. PUTinCoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. PUTinCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -943,7 +943,7 @@ Adresa: %4
  Can vary +/- 1 Byte per input.</source>
         <translation>Aceasta eticheta se inroseste daca marimea tranzactiei este mai mare de 10000 bytes.
 
-Acest lucru inseamna ca este nevoie de o taxa de cel PutinCoin %1 pe kb
+Acest lucru inseamna ca este nevoie de o taxa de cel PUTinCoin %1 pe kb
 
 Poate varia +/- 1 Byte pe imput.</translation>
     </message>
@@ -958,7 +958,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 
 Aceasta eticheta se inroseste daca prioritatea este mai mica decat &quot;medium&quot;
 
-Acest lucru inseamna ca este necesar un comision cel PutinCoin de %1 pe kB</translation>
+Acest lucru inseamna ca este necesar un comision cel PUTinCoin de %1 pe kB</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -969,7 +969,7 @@ Acest lucru inseamna ca este necesar un comision cel PutinCoin de %1 pe kB</tran
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
         <translation>Aceasta eticheta se inroseste daca oricare din contacte primeste o suma mai mica decat %1.
 
-Acest lucru inseamna ca un comision de cel PutinCoin %2 este necesar.
+Acest lucru inseamna ca un comision de cel PUTinCoin %2 este necesar.
 
 Sume mai mici decat 0.546 ori minimul comisionului de relay sunt afisate ca DUST</translation>
     </message>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PutinCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă PutinCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PUTinCoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă PUTinCoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PutinCoin-Qt</source>
-        <translation>PutinCoin-Qt</translation>
+        <source>PUTinCoin-Qt</source>
+        <translation>PUTinCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PutinCoin after logging in to the system.</source>
-        <translation>Pornește PutinCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start PUTinCoin after logging in to the system.</source>
+        <translation>Pornește PUTinCoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PutinCoin on system login</source>
-        <translation>$Pornește PutinCoin la logarea în sistem</translation>
+        <source>&amp;Start PUTinCoin on system login</source>
+        <translation>$Pornește PUTinCoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PutinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul PutinCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the PUTinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul PUTinCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PutinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua PutinCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the PUTinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua PUTinCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PutinCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea PutinCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea PUTinCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PutinCoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese PutinCoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show PUTinCoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese PUTinCoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PutinCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea PutinCoin.</translation>
+        <source>This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea PUTinCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PutinCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua PutinCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUTinCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua PUTinCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PutinCoin-Qt help message to get a list with possible PutinCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor PutinCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă PutinCoin.</translation>
+        <source>Show the PUTinCoin-Qt help message to get a list with possible PUTinCoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor PUTinCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă PUTinCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>PutinCoin - Debug window</source>
-        <translation>PutinCoin - fereastră depanare</translation>
+        <source>PUTinCoin - Debug window</source>
+        <translation>PUTinCoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PutinCoin Core</source>
-        <translation>PutinCoin Core</translation>
+        <source>PUTinCoin Core</source>
+        <translation>PUTinCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PutinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare PutinCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the PUTinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare PUTinCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PutinCoin RPC console.</source>
-        <translation>Bine ati venit la consola PutinCoin RPC.</translation>
+        <source>Welcome to the PUTinCoin RPC console.</source>
+        <translation>Bine ati venit la consola PUTinCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă PutinCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă PUTinCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PutinCoin address</source>
-        <translation>Atenție: Adresă PutinCoin invalidă</translation>
+        <source>WARNING: Invalid PUTinCoin address</source>
+        <translation>Atenție: Adresă PUTinCoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă PutinCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă PUTinCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PutinCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă PutinCoin</translation>
+        <source>Sign the message to prove you own this PUTinCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă PUTinCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PutinCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă PutinCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified PUTinCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă PUTinCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă PutinCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă PUTinCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PutinCoin signature</source>
-        <translation>Introduceti semnatura PutinCoin</translation>
+        <source>Enter PUTinCoin signature</source>
+        <translation>Introduceti semnatura PUTinCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PutinCoin version</source>
-        <translation>Versiune PutinCoin</translation>
+        <source>PUTinCoin version</source>
+        <translation>Versiune PUTinCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or PutinCoind</source>
-        <translation>Trimite comanda catre server sau PutinCoind</translation>
+        <source>Send command to -server or PUTinCoind</source>
+        <translation>Trimite comanda catre server sau PUTinCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: PutinCoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: PutinCoin.conf)</translation>
+        <source>Specify configuration file (default: PUTinCoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: PUTinCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: PutinCoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: PutinCoin.pid)</translation>
+        <source>Specify pid file (default: PUTinCoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: PUTinCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PutinCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit PutinCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUTinCoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit PUTinCoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,22 +2990,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=PutinCoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PutinCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  PUTinCoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PutinCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de PutinCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PUTinCoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de PUTinCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PutinCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați PutinCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart PUTinCoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați PUTinCoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PutinCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil PutinCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. PUTinCoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil PUTinCoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

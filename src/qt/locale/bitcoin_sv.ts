@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PutinCoin</source>
-        <translation>Vad du behöver veta om PutinCoin</translation>
+        <source>About PUTinCoin</source>
+        <translation>Vad du behöver veta om PUTinCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PutinCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;PutinCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;PUTinCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;PUTinCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</source>
+Copyright © 2014 The PUTinCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</translation>
+Copyright © 2014 The PUTinCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PutinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina PutinCoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your PUTinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina PUTinCoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PutinCoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger PutinCoin adressen</translation>
+        <source>Sign a message to prove you own a PUTinCoin address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger PUTinCoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PutinCoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik PutinCoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified PUTinCoin address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik PUTinCoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>PutinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PutinCoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>PUTinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>PUTinCoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about PutinCoin</source>
-        <translation>Visa information om PutinCoin</translation>
+        <source>Show information about PUTinCoin</source>
+        <translation>Visa information om PUTinCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a PutinCoin address</source>
-        <translation>Skicka coins till en PutinCoin adress</translation>
+        <source>Send coins to a PUTinCoin address</source>
+        <translation>Skicka coins till en PUTinCoin adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for PutinCoin</source>
-        <translation>Modifiera konfigurations-alternativ för PutinCoin</translation>
+        <source>Modify configuration options for PUTinCoin</source>
+        <translation>Modifiera konfigurations-alternativ för PUTinCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About PutinCoin</source>
-        <translation>&amp;Om PutinCoin</translation>
+        <source>&amp;About PUTinCoin</source>
+        <translation>&amp;Om PUTinCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PutinCoin client</source>
-        <translation>PutinCoin klient</translation>
+        <source>PUTinCoin client</source>
+        <translation>PUTinCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to PutinCoin network</source>
-        <translation><numerusform>%n aktiv anslutning till PutinCoin nätverket</numerusform><numerusform>%n aktiva anslutning till PutinCoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to PUTinCoin network</source>
+        <translation><numerusform>%n aktiv anslutning till PUTinCoin nätverket</numerusform><numerusform>%n aktiva anslutning till PUTinCoin nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PutinCoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig PutinCoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid PUTinCoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig PUTinCoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PutinCoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. PutinCoin kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. PUTinCoin can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. PUTinCoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1015,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna PutinCoin-adress</translation>
+        <translation>Namnet som kopplats till denna PUTinCoin-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1054,8 +1054,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PutinCoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig PutinCoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PUTinCoin address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig PUTinCoin adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PutinCoin-Qt</source>
-        <translation>PutinCoin-Qt</translation>
+        <source>PUTinCoin-Qt</source>
+        <translation>PUTinCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PutinCoin after logging in to the system.</source>
-        <translation>Starta PutinCoin automatiskt vid inloggning.</translation>
+        <source>Automatically start PUTinCoin after logging in to the system.</source>
+        <translation>Starta PUTinCoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PutinCoin on system login</source>
-        <translation>&amp;Starta PutinCoin vid inloggning</translation>
+        <source>&amp;Start PUTinCoin on system login</source>
+        <translation>&amp;Starta PUTinCoin vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PutinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt PutinCoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the PUTinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt PUTinCoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PutinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till PutinCoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the PUTinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till PUTinCoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PutinCoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av PutinCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av PUTinCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PutinCoin addresses in the transaction list or not.</source>
-        <translation>Om PutinCoin adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show PUTinCoin addresses in the transaction list or not.</source>
+        <translation>Om PUTinCoin adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PutinCoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av PutinCoin.</translation>
+        <source>This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Inställningen börjar gälla efter omstart av PUTinCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PutinCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med PutinCoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUTinCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med PUTinCoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PutinCoin-Qt help message to get a list with possible PutinCoin command-line options.</source>
-        <translation>Visa PutinCoin-Qt hjälp meddelandet för att få en lista över möjliga PutinCoin kommandoradsalternativ.</translation>
+        <source>Show the PUTinCoin-Qt help message to get a list with possible PUTinCoin command-line options.</source>
+        <translation>Visa PUTinCoin-Qt hjälp meddelandet för att få en lista över möjliga PUTinCoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>PutinCoin - Debug window</source>
-        <translation>PutinCoin - Felsökningsfönster</translation>
+        <source>PUTinCoin - Debug window</source>
+        <translation>PUTinCoin - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PutinCoin Core</source>
-        <translation>PutinCoin Core</translation>
+        <source>PUTinCoin Core</source>
+        <translation>PUTinCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PutinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna PutinCoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the PUTinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna PUTinCoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PutinCoin RPC console.</source>
-        <translation>Välkommen till PutinCoin RPC konsoll.</translation>
+        <source>Welcome to the PUTinCoin RPC console.</source>
+        <translation>Välkommen till PUTinCoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en PutinCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en PUTinCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PutinCoin address</source>
-        <translation>VARNING: Ogiltig PutinCoin adress</translation>
+        <source>WARNING: Invalid PUTinCoin address</source>
+        <translation>VARNING: Ogiltig PUTinCoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en PutinCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en PUTinCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PutinCoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna PutinCoin adressen</translation>
+        <source>Sign the message to prove you own this PUTinCoin address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna PUTinCoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PutinCoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna PutinCoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified PUTinCoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna PUTinCoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en PutinCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en PUTinCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PutinCoin signature</source>
-        <translation>Fyll i PutinCoin signatur</translation>
+        <source>Enter PUTinCoin signature</source>
+        <translation>Fyll i PUTinCoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PutinCoin version</source>
-        <translation>PutinCoin version</translation>
+        <source>PUTinCoin version</source>
+        <translation>PUTinCoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or PutinCoind</source>
-        <translation>Skicka kommando till -server eller PutinCoind</translation>
+        <source>Send command to -server or PUTinCoind</source>
+        <translation>Skicka kommando till -server eller PUTinCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: PutinCoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: PutinCoin.conf)</translation>
+        <source>Specify configuration file (default: PUTinCoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: PUTinCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: PutinCoind.pid)</source>
-        <translation>Ange pid filen (standard PutinCoind.pid)</translation>
+        <source>Specify pid file (default: PUTinCoind.pid)</source>
+        <translation>Ange pid filen (standard PUTinCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PutinCoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. PutinCoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUTinCoin will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. PUTinCoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;PutinCoin Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;PUTinCoin Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;PutinCoin Varning&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PutinCoin is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. PutinCoin är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  PUTinCoin is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. PUTinCoin är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;PutinCoin Varning&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PutinCoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av PutinCoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PUTinCoin</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av PUTinCoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PutinCoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om PutinCoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart PUTinCoin to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om PUTinCoin för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;PutinCoin Varning&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PutinCoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. PutinCoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. PUTinCoin is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. PUTinCoin är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

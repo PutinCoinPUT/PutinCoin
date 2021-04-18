@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PutinCoin</source>
-        <translation>O PutinCoine</translation>
+        <source>About PUTinCoin</source>
+        <translation>O PUTinCoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PutinCoin&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;PutinCoinu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;PUTinCoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;PUTinCoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</source>
+Copyright © 2014 The PUTinCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</translation>
+Copyright © 2014 The PUTinCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PutinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše PutinCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your PUTinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše PUTinCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PutinCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto PutinCoin adresu</translation>
+        <source>Sign a message to prove you own a PUTinCoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto PUTinCoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PutinCoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou PutinCoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified PUTinCoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou PUTinCoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>PutinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PutinCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>PUTinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>PUTinCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about PutinCoin</source>
-        <translation>Zobraziť informácie o PutinCoin</translation>
+        <source>Show information about PUTinCoin</source>
+        <translation>Zobraziť informácie o PUTinCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a PutinCoin address</source>
-        <translation>Poslať mince na PutinCoin adresu</translation>
+        <source>Send coins to a PUTinCoin address</source>
+        <translation>Poslať mince na PUTinCoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for PutinCoin</source>
-        <translation>Upraviť možnosti konfigurácie pre PutinCoin</translation>
+        <source>Modify configuration options for PUTinCoin</source>
+        <translation>Upraviť možnosti konfigurácie pre PUTinCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About PutinCoin</source>
-        <translation>&amp;O PutinCoin</translation>
+        <source>&amp;About PUTinCoin</source>
+        <translation>&amp;O PUTinCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PutinCoin client</source>
-        <translation>PutinCoin klient</translation>
+        <source>PUTinCoin client</source>
+        <translation>PUTinCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to PutinCoin network</source>
-        <translation><numerusform>%n aktívne spojenie s PutinCoin sieťov</numerusform><numerusform>%n aktívnych spojení s PutinCoin sieťov</numerusform><numerusform>%n aktívnych spojení s PutinCoin sieťou</numerusform></translation>
+        <source>%n active connection(s) to PUTinCoin network</source>
+        <translation><numerusform>%n aktívne spojenie s PUTinCoin sieťov</numerusform><numerusform>%n aktívnych spojení s PUTinCoin sieťov</numerusform><numerusform>%n aktívnych spojení s PUTinCoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PutinCoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou PutinCoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid PUTinCoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou PUTinCoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PutinCoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. PutinCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. PUTinCoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. PUTinCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PutinCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou PutinCoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PUTinCoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou PUTinCoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PutinCoin-Qt</source>
-        <translation>PutinCoin-Qt</translation>
+        <source>PUTinCoin-Qt</source>
+        <translation>PUTinCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PutinCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť PutinCoin po prihlásení sa do systému.</translation>
+        <source>Automatically start PUTinCoin after logging in to the system.</source>
+        <translation>Automaticky spustiť PUTinCoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PutinCoin on system login</source>
-        <translation>&amp;Spustiť PutinCoin pri prihlásení do systému</translation>
+        <source>&amp;Start PUTinCoin on system login</source>
+        <translation>&amp;Spustiť PUTinCoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PutinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta PutinCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the PUTinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta PUTinCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PutinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti PutinCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the PUTinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti PUTinCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PutinCoin.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní PutinCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní PUTinCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PutinCoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť PutinCoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show PUTinCoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť PUTinCoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PutinCoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní PutinCoin.</translation>
+        <source>This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní PUTinCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PutinCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou PutinCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUTinCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou PUTinCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PutinCoin-Qt help message to get a list with possible PutinCoin command-line options.</source>
-        <translation>Zobraziť PutinCoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku PutinCoin.</translation>
+        <source>Show the PUTinCoin-Qt help message to get a list with possible PUTinCoin command-line options.</source>
+        <translation>Zobraziť PUTinCoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku PUTinCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>PutinCoin - Debug window</source>
-        <translation>PutinCoin - Ladiace okno</translation>
+        <source>PUTinCoin - Debug window</source>
+        <translation>PUTinCoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PutinCoin Core</source>
-        <translation>Jadro PutinCoin</translation>
+        <source>PUTinCoin Core</source>
+        <translation>Jadro PUTinCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PutinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte PutinCoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the PUTinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte PUTinCoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PutinCoin RPC console.</source>
-        <translation>Vitajte v konzole PutinCoin RPC.</translation>
+        <source>Welcome to the PUTinCoin RPC console.</source>
+        <translation>Vitajte v konzole PUTinCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte PutinCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte PUTinCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PutinCoin address</source>
-        <translation>UPOZORNENIE: Neplatná PutinCoin adresa</translation>
+        <source>WARNING: Invalid PUTinCoin address</source>
+        <translation>UPOZORNENIE: Neplatná PUTinCoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte PutinCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte PUTinCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PutinCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto PutinCoin adresu</translation>
+        <source>Sign the message to prove you own this PUTinCoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto PUTinCoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PutinCoin address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou PutinCoin adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified PUTinCoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou PUTinCoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte PutinCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte PUTinCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PutinCoin signature</source>
-        <translation>Zadajte PutinCoin podpis</translation>
+        <source>Enter PUTinCoin signature</source>
+        <translation>Zadajte PUTinCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PutinCoin version</source>
-        <translation>PutinCoin verzia</translation>
+        <source>PUTinCoin version</source>
+        <translation>PUTinCoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or PutinCoind</source>
-        <translation>Pošli príkaz na -server alebo PutinCoind</translation>
+        <source>Send command to -server or PUTinCoind</source>
+        <translation>Pošli príkaz na -server alebo PUTinCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: PutinCoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: PutinCoin.conf)</translation>
+        <source>Specify configuration file (default: PUTinCoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: PUTinCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: PutinCoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: PutinCoind.pid)</translation>
+        <source>Specify pid file (default: PUTinCoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: PUTinCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PutinCoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny PutinCoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUTinCoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny PUTinCoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PutinCoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. PutinCoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  PUTinCoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. PUTinCoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PutinCoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu PutinCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PUTinCoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu PUTinCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PutinCoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte PutinCoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart PUTinCoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte PUTinCoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PutinCoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. PutinCoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. PUTinCoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. PUTinCoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>
