@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PutinCoin</source>
-        <translation>Sobre PutinCoin</translation>
+        <source>About PUTinCoin</source>
+        <translation>Sobre PUTinCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PutinCoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;PutinCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;PUTinCoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;PUTinCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</source>
+Copyright © 2014 The PUTinCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</translation>
+Copyright © 2014 The PUTinCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PutinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de PutinCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your PUTinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de PUTinCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PutinCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça PutinCoin</translation>
+        <source>Sign a message to prove you own a PUTinCoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça PUTinCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PutinCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça PutinCoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified PUTinCoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça PUTinCoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>PutinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PutinCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>PUTinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>PUTinCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about PutinCoin</source>
-        <translation>Mostra informació sobre PutinCoin</translation>
+        <source>Show information about PUTinCoin</source>
+        <translation>Mostra informació sobre PUTinCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a PutinCoin address</source>
-        <translation>Enviar monedes a una adreça PutinCoin</translation>
+        <source>Send coins to a PUTinCoin address</source>
+        <translation>Enviar monedes a una adreça PUTinCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for PutinCoin</source>
-        <translation>Modificar les opcions de configuració per a PutinCoin</translation>
+        <source>Modify configuration options for PUTinCoin</source>
+        <translation>Modificar les opcions de configuració per a PUTinCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About PutinCoin</source>
-        <translation>&amp;Sobre PutinCoin</translation>
+        <source>&amp;About PUTinCoin</source>
+        <translation>&amp;Sobre PUTinCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PutinCoin client</source>
-        <translation>Client PutinCoin</translation>
+        <source>PUTinCoin client</source>
+        <translation>Client PUTinCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to PutinCoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa PutinCoin</numerusform><numerusform>%n conexions actives a la xarxa PutinCoin</numerusform></translation>
+        <source>%n active connection(s) to PUTinCoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa PUTinCoin</numerusform><numerusform>%n conexions actives a la xarxa PUTinCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PutinCoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça PutinCoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid PUTinCoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça PUTinCoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PutinCoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. PutinCoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. PUTinCoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. PUTinCoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PutinCoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça PutinCoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PUTinCoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça PUTinCoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PutinCoin-Qt</source>
-        <translation>PutinCoin-Qt</translation>
+        <source>PUTinCoin-Qt</source>
+        <translation>PUTinCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PutinCoin after logging in to the system.</source>
-        <translation>Inicia automàticament PutinCoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start PUTinCoin after logging in to the system.</source>
+        <translation>Inicia automàticament PUTinCoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PutinCoin on system login</source>
-        <translation>&amp;Iniciar PutinCoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start PUTinCoin on system login</source>
+        <translation>&amp;Iniciar PUTinCoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PutinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client PutinCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the PUTinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client PUTinCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PutinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa PutinCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the PUTinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa PUTinCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PutinCoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar PutinCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting PUTinCoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar PUTinCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PutinCoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar PutinCoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show PUTinCoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar PUTinCoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PutinCoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar PutinCoin.</translation>
+        <source>This setting will take effect after restarting PUTinCoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar PUTinCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PutinCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa PutinCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUTinCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa PUTinCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PutinCoin-Qt help message to get a list with possible PutinCoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de PutinCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres PutinCoin.</translation>
+        <source>Show the PUTinCoin-Qt help message to get a list with possible PUTinCoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de PUTinCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres PUTinCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>PutinCoin - Debug window</source>
-        <translation>PutinCoin - Finestra Depuració</translation>
+        <source>PUTinCoin - Debug window</source>
+        <translation>PUTinCoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PutinCoin Core</source>
-        <translation>Nucli PutinCoin</translation>
+        <source>PUTinCoin Core</source>
+        <translation>Nucli PUTinCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PutinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració PutinCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the PUTinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració PUTinCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PutinCoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de PutinCoin.</translation>
+        <source>Welcome to the PUTinCoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de PUTinCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PutinCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça PUTinCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PutinCoin address</source>
-        <translation>ADVERTÈNCIA: Direcció PutinCoin invàlida</translation>
+        <source>WARNING: Invalid PUTinCoin address</source>
+        <translation>ADVERTÈNCIA: Direcció PUTinCoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PutinCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça PUTinCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PutinCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça PutinCoin</translation>
+        <source>Sign the message to prove you own this PUTinCoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça PUTinCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PutinCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça PutinCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified PUTinCoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça PUTinCoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PutinCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça PUTinCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PutinCoin signature</source>
-        <translation>Introduïu la signatura PutinCoin</translation>
+        <source>Enter PUTinCoin signature</source>
+        <translation>Introduïu la signatura PUTinCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PutinCoin version</source>
-        <translation>versió PutinCoin</translation>
+        <source>PUTinCoin version</source>
+        <translation>versió PUTinCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or PutinCoind</source>
-        <translation>Enviar comandes a -server o PutinCoind</translation>
+        <source>Send command to -server or PUTinCoind</source>
+        <translation>Enviar comandes a -server o PUTinCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: PutinCoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: PutinCoin.conf)</translation>
+        <source>Specify configuration file (default: PUTinCoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: PUTinCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: PutinCoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: PutinCoind.pid)</translation>
+        <source>Specify pid file (default: PUTinCoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: PUTinCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PutinCoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni PutinCoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUTinCoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni PUTinCoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PutinCoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. PutinCoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  PUTinCoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. PUTinCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PutinCoin</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de PutinCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PUTinCoin</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de PUTinCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PutinCoin to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar PutinCoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart PUTinCoin to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar PUTinCoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PutinCoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. PutinCoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. PUTinCoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. PUTinCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

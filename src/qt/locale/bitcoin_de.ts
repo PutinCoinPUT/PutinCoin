@@ -1,22 +1,26 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="de" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="de">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PutinCoin</source>
-        <translation>Über PutinCoin</translation>
+        <source>About PUTinCoin</source>
+        <translation>Über PUTinCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PutinCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;PutinCoin&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;PUTinCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;PUTinCoin&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PutinCoin developers</source>
-        <translation type="unfinished"/>
+Copyright © 2014 The PUTinCoin developers</source>
+        <translation>Copyright © 2009-2014 Die Bitcoin-Entwickler
+Copyright © 2012-2014 Die NovaCoin-Entwickler
+Copyright © 2017-2021 Die PUTinCoin-Entwickler</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -63,8 +67,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PutinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre PutinCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
+        <source>These are your PUTinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre PUTinCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,13 +82,13 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PutinCoin address</source>
-        <translation type="unfinished"/>
+        <source>Sign a message to prove you own a PUTinCoin address</source>
+        <translation>Signiere eine Nachricht um zu beweisen dass du Besitzer einer PUTinCoin Adresse bist</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht &amp;signieren</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -93,13 +97,13 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PutinCoin address</source>
-        <translation type="unfinished"/>
+        <source>Verify a message to ensure it was signed with a specified PUTinCoin address</source>
+        <translation>Verifiziere eine Nachricht um sicher zu stellen dass sie mit einer speziellen PUTinCoin Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht &amp;verifizieren</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -119,7 +123,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+250"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>Adressbuch exportieren</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -129,12 +133,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Exportieren</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Kann die Datei nicht schreiben %1.</translation>
     </message>
 </context>
 <context>
@@ -180,12 +184,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+33"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation type="unfinished"/>
+        <translation>Dient dazu die einfache Geldsendefunktion zu deaktivieren, sollte das Betriebssystem bzw. Konto kompromitiert sein. Dies stellt keine echte Sicherheit dar.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>For staking only</source>
-        <translation>Anteil der im Netz reift und nur Zinsen kreiert.</translation>
+        <translation>Nur zum Staken entsperren</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
@@ -235,7 +239,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation type="unfinished"/>
+        <translation>WARNUNG: Wenn Du Deine Wallet verschlüsselst und das Passwort/die Passphrase verlierst/vergisst, sind &lt;b&gt;ALLE DEINE COINS VERLOREN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -261,8 +265,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-58"/>
-        <source>PutinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"/>
+        <source>PUTinCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Die PUTinCoin Wallet wird jetzt geschlossen, um dem Verschlüsselungsvorgang abzuschliessen. Bedenke, dass das Verschlüsseln Deiner Wallet nicht vollständig vor dem Diebstahl Deiner Coins mittels Malware auf Deinem Computer schützen kann.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -341,27 +345,27 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+5"/>
         <source>&amp;Address Book</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adressbuch</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"/>
+        <translation>Die Liste der gespeicherten Adressen und Adressbezeichnungen bearbeiten</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Coins empfangen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"/>
+        <translation>Zeige die Liste der Adressen um Zahlungen zu empfangen</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Coins senden</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -375,8 +379,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about PutinCoin</source>
-        <translation type="unfinished"/>
+        <source>Show information about PUTinCoin</source>
+        <translation>Informationen über PUTinCoin anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -411,37 +415,40 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message numerus="yes">
         <location line="+250"/>
         <source>~%n block(s) remaining</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation>
+            <numerusform>~%n Block verbleibt</numerusform>
+            <numerusform>~%n Blocks verbleiben</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation type="unfinished"/>
+        <translation>%1 von %2 Blocks der Transaktionshistorie heruntergeladen (%3% fertiggestellt).</translation>
     </message>
     <message>
         <location line="-247"/>
         <source>&amp;Export...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Export...</translation>
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a PutinCoin address</source>
-        <translation type="unfinished"/>
+        <source>Send coins to a PUTinCoin address</source>
+        <translation>Coins an eine PUTinCoin-Adresse senden</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for PutinCoin</source>
-        <translation type="unfinished"/>
+        <source>Modify configuration options for PUTinCoin</source>
+        <translation>Konfigurationseinstellungen für PUTinCoin anpassen</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Export the data in the current tab to a file</source>
-        <translation type="unfinished"/>
+        <translation>Exportiere die Daten des aktiven Tabs in eine Datei</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Wallet verschlüsseln oder entschlüsseln</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -470,8 +477,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-200"/>
-        <source>PutinCoin</source>
-        <translation type="unfinished"/>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +487,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About PutinCoin</source>
-        <translation type="unfinished"/>
+        <source>&amp;About PUTinCoin</source>
+        <translation>&amp;Über PUTinCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -491,17 +498,17 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+9"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Wallet entsperren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wallet sperren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Wallet sperren</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -526,7 +533,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+8"/>
         <source>Actions toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Aktionsleiste</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -537,68 +544,83 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PutinCoin client</source>
-        <translation type="unfinished"/>
+        <source>PUTinCoin client</source>
+        <translation>PUTinCoin Client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to PutinCoin network</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <source>%n active connection(s) to PUTinCoin network</source>
+        <translation>
+            <numerusform>%n aktive Verbindung zum PUTinCoin-Network</numerusform>
+            <numerusform>%n aktive Verbindungen zum PUTinCoin-Network</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation type="unfinished"/>
+        <translation>%1 Blocks der Transaktionshistorie heruntergeladen.</translation>
     </message>
     <message>
         <location line="+413"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation type="unfinished"/>
+        <translation>Stake jetzt!&lt;br&gt;Dein Stakinggewicht ist %1&lt;br&gt;Das Netzwerkgewicht ist %2&lt;br&gt;Ungefähre Zeit bis zum nächsten Stakingertrag ist %3</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation type="unfinished"/>
+        <translation>Kein Staking da die Wallet gesperrt ist</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is offline</source>
-        <translation type="unfinished"/>
+        <translation>Kein Staking da die Wallet offline ist</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation type="unfinished"/>
+        <translation>Kein Staking da die Wallet gerade synchronisiert</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation type="unfinished"/>
+        <translation>Kein Staking da Du keine stakingreifen Coins hast</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
         <source>%n second(s) ago</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation>
+            <numerusform>Vor %n Sekunde</numerusform>
+            <numerusform>Vor %n Sekunden</numerusform>
+        </translation>
     </message>
     <message>
         <location line="-284"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wallet entsperren...</translation>
     </message>
     <message numerus="yes">
         <location line="+288"/>
         <source>%n minute(s) ago</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation>
+            <numerusform>Vor %n Minute</numerusform>
+            <numerusform>Vor %n Minuten</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n hour(s) ago</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation>
+            <numerusform>Vor %n Stunde</numerusform>
+            <numerusform>Vor %n Stunden</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s) ago</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation>
+            <numerusform>Vor %n Tag</numerusform>
+            <numerusform>Vor %n Tagen</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+6"/>
@@ -613,17 +635,17 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+10"/>
         <source>Last received block was generated %1.</source>
-        <translation type="unfinished"/>
+        <translation>Der letzte empfangene Block wurde vor %1 generiert.</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation type="unfinished"/>
+        <translation>Diese Transaktion ist grösser als das Begrenzungslimit.  Du kannst sie trotzdem senden für eine Gebühr von %1, die an die Nodes geht, die Deine Zahlung ausführen und damit wird das Netzwerk unterstützt.  Möchtest Du die Gebühr bezahlen?</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm transaction fee</source>
-        <translation type="unfinished"/>
+        <translation>Bestätige die Transaktionsgebühr</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -645,19 +667,20 @@ Address: %4
         <translation>Datum: %1
 Betrag: %2
 Typ: %3
-Adresse: %4</translation>
+Adresse: %4
+</translation>
     </message>
     <message>
         <location line="+100"/>
         <location line="+15"/>
         <source>URI handling</source>
-        <translation type="unfinished"/>
+        <translation>URI-Verarbeitung</translation>
     </message>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PutinCoin address or malformed URI parameters.</source>
-        <translation type="unfinished"/>
+        <source>URI can not be parsed! This can be caused by an invalid PUTinCoin address or malformed URI parameters.</source>
+        <translation>URI kann nicht verarbeitet werden! Dies kann durch eine ungültige PUTinCoin-Adresse oder falsche URI-Parameter verursacht sein.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -672,52 +695,64 @@ Adresse: %4</translation>
     <message>
         <location line="+25"/>
         <source>Backup Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Walletsicherung erstellen</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation type="unfinished"/>
+        <translation>Wallet-Datendatei (*.dat)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation type="unfinished"/>
+        <translation>Sicherung fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation type="unfinished"/>
+        <translation>Es gab einen Fehler bei dem Versuch die Wallet-Datendatei am gewünschten Ort abzuspeichern.</translation>
     </message>
     <message numerus="yes">
         <location line="+76"/>
         <source>%n second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation>
+            <numerusform>%n Sekunde</numerusform>
+            <numerusform>%n Sekunden</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation>
+            <numerusform>%n Minute</numerusform>
+            <numerusform>%n Minuten</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n hour(s)</source>
-        <translation><numerusform>%n Stunde</numerusform><numerusform>%n Stunden</numerusform></translation>
+        <translation>
+            <numerusform>%n Stunde</numerusform>
+            <numerusform>%n Stunden</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s)</source>
-        <translation><numerusform>%n Tag</numerusform><numerusform>%n Tage</numerusform></translation>
+        <translation>
+            <numerusform>%n Tag</numerusform>
+            <numerusform>%n Tage</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Not staking</source>
-        <translation type="unfinished"/>
+        <translation>Kein Staking</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PutinCoin can no longer continue safely and will quit.</source>
-        <translation type="unfinished"/>
+        <source>A fatal error occurred. PUTinCoin can no longer continue safely and will quit.</source>
+        <translation>Ein fataler Fehler ist aufgetreten. Die PUTinCoin-Wallet kann nicht mehr sicher ausgeführt werden und wird jetzt geschlossen.</translation>
     </message>
 </context>
 <context>
@@ -733,7 +768,7 @@ Adresse: %4</translation>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="unfinished"/>
+        <translation>Coinsteuerung</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -938,7 +973,11 @@ Adresse: %4</translation>
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="unfinished"/>
+        <translation>Diese Anzeige wird rot, wenn die Größe der Transaktion 10000 Bytes überschreitet.
+
+ Das heisst dass mindestens eine Gebühr von %1 pro KB nötig ist.
+
+ Dies kann pro Eingabe um +/- 1 Byte varriieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -947,7 +986,11 @@ Adresse: %4</translation>
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionen mit einer höheren Priorität kommen leichter in einen Block.
+
+Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
+
+ Das bedeutet, dass mindestens eine Gebühr von %1 pro KB benötigt wird.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -956,14 +999,20 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="unfinished"/>
+        <translation>Diese Anzeige wird rot, wenn irgendein Empfänger einen Betrag erhält, der kleiner ist als %1.
+
+ Das bedeutet, dass zumindest eine Gebühr von %2 benötigt wird. 
+
+ Bei Beträgen von unter 0.546 Malen wird die Minimumgebühr als STAUB angezeigt.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="unfinished"/>
+        <translation>Diese Anzeige wird rot, wenn das Wechselgeld weniger als %1 beträgt.
+
+ Das bedeutet, dass zumindest eine Gebühr von %2 benötigt wird.</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -997,7 +1046,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Die Kennzeichnung verbunden mit diesem Adressbucheintrag.</translation>
+        <translation>Die mit diesem Adressbucheintrag verbundene Kennzeichnung</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1036,8 +1085,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PutinCoin address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige PutinCoin Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PUTinCoin address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige PUTinCoin Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1055,8 +1104,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PutinCoin-Qt</source>
-        <translation type="unfinished"/>
+        <source>PUTinCoin-Qt</source>
+        <translation>PUTinCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1076,12 +1125,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation type="unfinished"/>
+        <translation>UI Optionen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation type="unfinished"/>
+        <translation>Sprache wählen, z.B. &quot;de_DE&quot; für Deutsch (Standard: system locale)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1091,7 +1140,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Begrüssungsbildschirm beim Start anzeigen (Standard: 1)</translation>
     </message>
 </context>
 <context>
@@ -1109,7 +1158,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation type="unfinished"/>
+        <translation>Optionale Transaktionsgebühr pro KB, die dabei hilft, Deine Transaktionen schneller zu verarbeiten. Die meisten Transaktionen sind 1 KB gross. Eine Gebühr von 0.01 PUT wird empfohlen.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1119,7 +1168,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation type="unfinished"/>
+        <translation>Der reservierte Betrag, der nicht fürs Staking benutzt wird und daher jederzeit ausgabebereit ist.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1128,23 +1177,23 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PutinCoin after logging in to the system.</source>
-        <translation>Automatisch PutinCoin starten beim Einloggen in das System.</translation>
+        <source>Automatically start PUTinCoin after logging in to the system.</source>
+        <translation>Automatisch PUTinCoin starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PutinCoin on system login</source>
-        <translation>&amp;Starte PutinCoin bei Systemstart</translation>
+        <source>&amp;Start PUTinCoin on system login</source>
+        <translation>&amp;Starte PUTinCoin bei Systemstart</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation type="unfinished"/>
+        <translation>Block- und Adressdatenbanken beim Herunterfahren trennen. Das ermöglicht das Verschieben in ein anderes Datenverzeichnis, aber es verlangsamt das Herunterfahren. Die Wallet wird immer getrennt.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Datenbanken beim Herunterfahren trennen</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1153,8 +1202,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PutinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den PutinCoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the PUTinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den PUTinCoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1163,13 +1212,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PutinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation type="unfinished"/>
+        <source>Connect to the PUTinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbindung zum PUTinCoin-Netzwerk mittels SOCKS-Proxy herstellen (zB. bei Verbindung über Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mittels SOCKS-Proxy verbinden:</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1238,7 +1287,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PutinCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting PUTinCoin.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1253,8 +1302,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PutinCoin addresses in the transaction list or not.</source>
-        <translation>PutinCoin Adressen in der Überweisung anzeigen oder nicht.</translation>
+        <source>Whether to show PUTinCoin addresses in the transaction list or not.</source>
+        <translation>PUTinCoin Adressen in der Überweisung anzeigen oder nicht.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1300,7 +1349,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PutinCoin.</source>
+        <source>This setting will take effect after restarting PUTinCoin.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1314,18 +1363,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation>Formular</translation>
+        <translation>Übersicht</translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PutinCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem PutinCoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUTinCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem PUTinCoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-160"/>
         <source>Stake:</source>
-        <translation type="unfinished"/>
+        <translation>Gestaked:</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1375,12 +1424,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-108"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Anzahl der unbestätigten Transaktionen die somit noch nicht zum aktuellen Kontostand zählen.</translation>
+        <translation>Anzahl der unbestätigten Transaktionen die somit noch nicht zum aktuellen Kontostand zählen</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation type="unfinished"/>
+        <translation>Die Gesamtsumme der Coins, die momentan gestaked sind und daher nicht zum aktuellen Walletguthaben gezählt werden</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+113"/>
@@ -1419,7 +1468,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation>&amp; Speichern als...</translation>
+        <translation>&amp;Speichern als...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
@@ -1466,7 +1515,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+348"/>
         <source>N/A</source>
-        <translation>k.A.</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="-217"/>
@@ -1531,12 +1580,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation>Kommandozeilen Optionen:</translation>
+        <translation>Kommandozeilen-Optionen</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PutinCoin-Qt help message to get a list with possible PutinCoin command-line options.</source>
-        <translation type="unfinished"/>
+        <source>Show the PUTinCoin-Qt help message to get a list with possible PUTinCoin command-line options.</source>
+        <translation>Zeige das PUTinCoin Hilfe(Help)-Menü um eine Liste der möglichen PUTinCoin Befehlszeilenkommandos zu erhalten.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1555,13 +1604,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>PutinCoin - Debug window</source>
-        <translation>PutinCoin - Debug Fenster</translation>
+        <source>PUTinCoin - Debug window</source>
+        <translation>PUTinCoin - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PutinCoin Core</source>
-        <translation>PutinCoin Kern</translation>
+        <source>PUTinCoin Core</source>
+        <translation>PUTinCoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1570,8 +1619,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PutinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation type="unfinished"/>
+        <source>Open the PUTinCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Die aktuelle PUTinCoin Debugprotokolldatei anzeigen. Dies kann bei grossen Protokolldateien etwas länger dauern.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1580,8 +1629,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PutinCoin RPC console.</source>
-        <translation type="unfinished"/>
+        <source>Welcome to the PUTinCoin RPC console.</source>
+        <translation>Willkommen zur PUTinCoin RPC-Konsole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1606,7 +1655,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Bitcoins überweisen</translation>
+        <translation>PUTinCoins überweisen</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1637,7 +1686,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+22"/>
         <location line="+35"/>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -1655,7 +1704,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+32"/>
         <source>0.00 BC</source>
-        <translation type="unfinished"/>
+        <translation>0.00 PUT</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1665,7 +1714,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation type="unfinished"/>
+        <translation>mittel</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -1680,7 +1729,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished"/>
+        <translation>nein</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -1690,12 +1739,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Wechselgeld:</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefinierte Adresse für das Wechselgeld</translation>
     </message>
     <message>
         <location line="+106"/>
@@ -1710,7 +1759,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation type="unfinished"/>
+        <translation>Alle Transaktionsfelder zurücksetzen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1725,7 +1774,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>123.456 BC</source>
-        <translation type="unfinished"/>
+        <translation>123.456 PUT</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1739,8 +1788,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation type="unfinished"/>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Eine PUTinCoin-Adresse angeben (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1785,7 +1834,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;%1&lt;/b&gt; zu %2 (%3)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1795,12 +1844,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished"/>
+        <translation>Bist Du sicher, dass Du %1 senden möchtest?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished"/>
+        <translation> und </translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1830,17 +1879,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Error: Transaction creation failed.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Transaktion konnte nicht erstellt werden.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Die Transaktion wurde abgelehnt. Das kann passieren, wenn einige Deiner Coins in der Wallet bereits ausgegeben wurden, zB. wenn Du eine Kopie der wallet.dat - Datei benutzt hast und Coins in dieser Kopie als bereits ausgegeben markiert wurden aber hier als nicht ausgegeben deklariert sind.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PutinCoin address</source>
-        <translation type="unfinished"/>
+        <source>WARNING: Invalid PUTinCoin address</source>
+        <translation>WARNUNG: Ungültige PUTinCoin - Adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1850,7 +1899,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="unfinished"/>
+        <translation>WARNUNG: Ungültige/Unbekannte Wechselgeldadresse</translation>
     </message>
 </context>
 <context>
@@ -1858,7 +1907,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Überweisungsformular</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1909,12 +1958,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished"/>
+        <translation>Diesen Empfänger entfernen</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation type="unfinished"/>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Eine PUTinCoin - Adresse eingeben (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
 </context>
 <context>
@@ -1938,7 +1987,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation type="unfinished"/>
+        <translation>Die Adresse, mit der diese Nachricht signiert werden soll (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1974,8 +2023,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PutinCoin address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser PutinCoin Adresse bist.</translation>
+        <source>Sign the message to prove you own this PUTinCoin address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser PUTinCoin Adresse bist</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2002,12 +2051,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation type="unfinished"/>
+        <translation>Die Adresse, mit der diese Nachricht signiert wurde (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PutinCoin address</source>
-        <translation type="unfinished"/>
+        <source>Verify the message to ensure it was signed with the specified PUTinCoin address</source>
+        <translation>Verifiziere die Nachricht um sicherzustellen, dass sie mit der angegebenen PUTinCoin - Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2017,8 +2066,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PutinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation type="unfinished"/>
+        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Eine PUTinCoin - Adresse eingeben (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2027,8 +2076,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PutinCoin signature</source>
-        <translation>PutinCoin Signatur eingeben</translation>
+        <source>Enter PUTinCoin signature</source>
+        <translation>PUTinCoin Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2107,7 +2156,10 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message numerus="yes">
         <location line="-2"/>
         <source>Open for %n block(s)</source>
-        <translation><numerusform>Offen für %n weitere Blöcke</numerusform><numerusform>Offen für %n weitere Blöcke</numerusform></translation>
+        <translation>
+            <numerusform>Offen für %n weitere Blöcke</numerusform>
+            <numerusform>Offen für %n weitere Blöcke</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2137,7 +2189,10 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation><numerusform>, über %n Knoten übertragen</numerusform><numerusform>, über %n Knoten übertragen</numerusform></translation>
+        <translation>
+            <numerusform>, über %n Knoten übertragen</numerusform>
+            <numerusform>, über %n Knoten übertragen</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2190,7 +2245,10 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message numerus="yes">
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
-        <translation><numerusform>reift noch %n weiteren Block</numerusform><numerusform>reift noch %n weitere Blöcke</numerusform></translation>
+        <translation>
+            <numerusform>reift noch %n weiteren Block</numerusform>
+            <numerusform>reift noch %n weitere Blöcke</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2324,17 +2382,20 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message numerus="yes">
         <location line="-15"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Offen für %n weiteren Block</numerusform><numerusform>Offen für %n weitere Blöcke</numerusform></translation>
+        <translation>
+            <numerusform>Offen für %n weiteren Block</numerusform>
+            <numerusform>Offen für %n weitere Blöcke</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation>Unbestätigt:</translation>
+        <translation>Unbestätigt</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2598,8 +2659,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PutinCoin version</source>
-        <translation type="unfinished"/>
+        <source>PUTinCoin version</source>
+        <translation>PUTinCoin Version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2608,8 +2669,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or PutinCoind</source>
-        <translation>Kommando versenden an -server oder PutinCoind </translation>
+        <source>Send command to -server or PUTinCoind</source>
+        <translation>Kommando versenden an -server oder putincoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2628,13 +2689,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: PutinCoin.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: PutinCoin.conf)</translation>
+        <source>Specify configuration file (default: PUTinCoin.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: PUTinCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: PutinCoind.pid)</source>
-        <translation>PID Datei angeben (Standard: PutinCoin.pid)</translation>
+        <source>Specify pid file (default: PUTinCoind.pid)</source>
+        <translation>PID Datei angeben (Standard: PUTinCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2654,12 +2715,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation type="unfinished"/>
+        <translation>Grösse der Datenbankprotokolldatei festlegen (in MB, Standard: 100)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Listen for connections on &lt;port&gt; (default: 27473 or testnet: 37473)</source>
-        <translation type="unfinished"/>
+        <translation>Nach Verbindungen auf &lt;port&gt; lauschen (Standard: 27473 or testnet: 37473)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2679,12 +2740,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation type="unfinished"/>
+        <translation>An die angegebene Adresse anbinden. [host]:port Notation für IPv6 benutzen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Deine Coins staken um das Netzwerk zu unterstützen und Stakingerträge zu generieren (Standard: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2704,7 +2765,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+51"/>
         <source>Detach block and address databases. Increases shutdown time (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Block- und Adressdatenbanken trennen. Erhöht die Dauer des Herunterfahrens (Standard: 0)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2714,12 +2775,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Fehler: Diese Transaktion benötigt eine Transaktionsgebühr von mindestens %s wegen der Anzahl, Komplexität oder Benutzung von neuerlich erhaltenen Beträgen.</translation>
+        <translation>Fehler: Diese Transaktion benötigt eine Transaktionsgebühr von mindestens %s wegen der Anzahl, Komplexität oder Benutzung von neuerlich erhaltenen Beträgen  </translation>
     </message>
     <message>
         <location line="-87"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 27474 or testnet: 37474)</source>
-        <translation type="unfinished"/>
+        <translation>Nach JSON-RPC - Verbindungen auf &lt;port&gt; lauschen (Standard: 27474 or testnet: 37474)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2729,22 +2790,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>Fehler: Erstellung der Transaktion fehlgeschlagen</translation>
+        <translation>Fehler: Erstellung der Transaktion fehlgeschlagen  </translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Fehler: Brieftasche verschlüsselt, unfähig Transaktion zu erstellen</translation>
+        <translation>Fehler: Brieftasche verschlüsselt, unfähig Transaktion zu erstellen  </translation>
     </message>
     <message>
         <location line="-8"/>
         <source>Importing blockchain data file.</source>
-        <translation>Importiere Block Kette aus Datei</translation>
+        <translation>Importiere Blockchaindatendatei.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Importing bootstrap blockchain data file.</source>
-        <translation type="unfinished"/>
+        <translation>Importiere Bootstrap-Blockchaindatendatei.</translation>
     </message>
     <message>
         <location line="-88"/>
@@ -2769,12 +2830,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Initialisieren der Datenbankumgebung %s! Zur Wiederherstellung, SICHERE DIESES VERZEICHNIS, dann lösche alles aus diesem Verzeichnis AUSSER der wallet.dat - Datei.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation type="unfinished"/>
+        <translation>Bestimme die Maximalgrösse von High-Priority/Low-Fee - Transaktionen in Bytes (Standard: 27000)</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -2783,8 +2844,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PutinCoin will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist PutinCoin nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUTinCoin will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist PUTinCoin nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2824,22 +2885,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Finde Peers durch DNS-Abfrage (Standard: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync checkpoints policy (default: strict)</source>
-        <translation type="unfinished"/>
+        <translation>Checkpoints - Synchronisierungsregel (Standard: strict)</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültige -tor Adresse: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Betrag für -reservebalance=&lt;amount&gt;</translation>
     </message>
     <message>
         <location line="-82"/>
@@ -2859,17 +2920,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation type="unfinished"/>
+        <translation>Extra Debugging-Informationen ausgeben. Impliziert alle anderen -debug* Optionen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation type="unfinished"/>
+        <translation>Extra Netzwerk - Debugging-Informationen ausgeben</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Prepend debug output with timestamp</source>
-        <translation type="unfinished"/>
+        <translation>Der Debuginformation einen Zeitstempel voranstellen</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2879,7 +2940,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation type="unfinished"/>
+        <translation>Die zu benutzende Version von SOCKS-Proxy auswählen (4-5, Standard: 5)</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -2889,12 +2950,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation type="unfinished"/>
+        <translation>Sende Nachverfolgungs-/Debugginginformationen an Debugger</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation type="unfinished"/>
+        <translation>Die maximale Blockgrösse in Bytes festlegen (Standard: 250000)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2915,7 +2976,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation type="unfinished"/>
+        <translation>Konnte den Checkpoint nicht signieren. Falscher Checkpoint-Schlüssel?
+</translation>
     </message>
     <message>
         <location line="-80"/>
@@ -2945,12 +3007,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation type="unfinished"/>
+        <translation>WARNUNG: Checkpoint Synchronisierungsverstoss erkannt, aber übergangen!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: Disk space is low!</source>
-        <translation>Warnung: Festplatte hat wenig freien Speicher</translation>
+        <translation>Warnung: Festplatte hat wenig freien Speicher!</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2972,15 +3034,25 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=PutinCoinrpc
+rpcuser=PUTinCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PUTinCoin Alert&quot; admin@foo.com
 </source>
-        <translation type="unfinished"/>
+        <translation>%s, Du musst ein RPC-Passwort in der Konfigurationsdatei festlegen:
+ %s
+Es wird empfohlen, dass Du folgendes zufällig generiertes Passwort benutzt:
+rpcuser=PUTinCoinrpc
+rpcpassword=%s
+(Du musst Dir dieses Passwort nicht merken)
+Benutzername und Passwort DÜRFEN NICHT gleich sein.
+Wenn die Konfigurationsdatei nicht existiert, erstelle sie mit Nur-Lesen - Berechtigung für den Dateibesitzer.
+Es wird auch empfohlen, den alertnotify - Parameter zu setzen, damit Du im Falle von Problemen benachrichtigt wirst;
+zB.: alertnotify=echo %%s | mail -s &quot;PUTinCoin Serveralarm&quot; deine@emailadresse.org
+</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -2990,7 +3062,7 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Synchronisierungszeit mit anderen Nodes. Deaktivieren, wenn die Systemzeit auf Deinem Server präzise ist zB. syncing with NTP (Standard: 1)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -3025,7 +3097,7 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsskripts erzwingen um kanonische PUSH Operatoren zu benutzen (Standard: 1)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3055,12 +3127,12 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Wie gründlich die Blockverifikation ist (0-6, Standard: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation>Importiere Blöcke aus externer blk000?.dat Datei.</translation>
+        <translation>Importiere Blöcke aus externer blk000?.dat Datei</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3080,12 +3152,12 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation type="unfinished"/>
+        <translation>Akzeptierte Verschlüsselungen (Standard: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Die Wallet ist nur zum Staken entsperrt, konnte daher keine Transaktion erstellen.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -3104,13 +3176,13 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PutinCoin is probably already running.</source>
-        <translation>Kann das Verzeichniss nicht einbinden %s. PutinCoin Brieftasche läuft wahrscheinlich bereits.</translation>
+        <source>Cannot obtain a lock on data directory %s.  PUTinCoin is probably already running.</source>
+        <translation>Kann das Verzeichniss nicht einbinden %s. PUTinCoin Brieftasche läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PutinCoin</source>
-        <translation>PutinCoin</translation>
+        <source>PUTinCoin</source>
+        <translation>PUTinCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3144,13 +3216,13 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PutinCoin</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der PutinCoin Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PUTinCoin</source>
+        <translation>Fehler beim Laden der wallet.dat. Die Wallet benötigt eine neuere Version der PUTinCoin-Wallet</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PutinCoin to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die PutinCoin Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart PUTinCoin to complete</source>
+        <translation>Wallet musste neu geschrieben werden. Zum Fertigstellen starte die PUTinCoin-Wallet neu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3219,7 +3291,7 @@ for example: alertnotify=echo %%s | mail -s &quot;PutinCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PutinCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. PUTinCoin is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
