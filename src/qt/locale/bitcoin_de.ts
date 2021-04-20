@@ -1788,7 +1788,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a PUTinCoin address (e.g. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</source>
         <translation>Eine PUTinCoin-Adresse angeben (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
@@ -1932,8 +1932,8 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Empfängeradresse (z.b. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</source>
+        <translation>Empfängeradresse (z.b. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1962,8 +1962,8 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Eine PUTinCoin - Adresse eingeben (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
+        <source>Enter a PUTinCoin address (e.g. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</source>
+        <translation>Eine PUTinCoin-Adresse eingeben (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
 </context>
 <context>
@@ -1986,7 +1986,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to sign the message with (e.g. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</source>
         <translation>Die Adresse, mit der diese Nachricht signiert werden soll (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
@@ -2050,7 +2050,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address the message was signed with (e.g. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</source>
         <translation>Die Adresse, mit der diese Nachricht signiert wurde (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
@@ -2066,8 +2066,8 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PUTinCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Eine PUTinCoin - Adresse eingeben (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
+        <source>Enter a PUTinCoin address (e.g. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</source>
+        <translation>Eine PUTinCoin-Adresse eingeben (zB. PLqX327vvJnnyRz2F8HDhizasxn2EkmkhB)</translation>
     </message>
     <message>
         <location line="-2"/>
