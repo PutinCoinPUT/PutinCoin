@@ -68,7 +68,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="-46"/>
         <source>These are your PUTinCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre PUTinCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
+        <translation>Das sind Deine PUTinCoin Adressen um Zahlungen zu erhalten. Du wirst vielleicht jedem Sender eine eigene Adresse erstellen, damit Du leichter im Auge behältst von wem Einzahlungen kommen.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -194,7 +194,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Geben Sie die neue Passphrase für die Wallet ein.&lt;br&gt;Bitte benutzen Sie eine Passphrase bestehend aus &lt;b&gt;10 oder mehr zufälligen Zeichen&lt;/b&gt; oder &lt;b&gt;8 oder mehr Wörtern&lt;/b&gt;.</translation>
+        <translation>Gib die neue Passphrase für die Wallet ein.&lt;br&gt;Wir empfehlen eine Passphrase bestehend aus &lt;b&gt;10 oder mehr zufälligen Zeichen&lt;/b&gt; oder &lt;b&gt;8 oder mehr zusammengefügten Wörtern&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -229,7 +229,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Geben Sie die alte und neue Wallet-Passphrase ein.</translation>
+        <translation>Gib die alte und neue Wallet-Passphrase ein.</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -244,12 +244,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Sind Sie sich sicher, dass Sie ihre Wallet verschlüsseln möchten?</translation>
+        <translation>Bist Du sich sicher, dass Du Deine Wallet verschlüsseln möchtest?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>WICHTIG: Alle vorherigen Wallet-Sicherungen sollten durch die neu erzeugte, verschlüsselte Wallet ersetzt werden. Aus Sicherheitsgründen werden vorherige Sicherungen der unverschlüsselten Wallet nutzlos, sobald Sie die neue, verschlüsselte Wallet verwenden.</translation>
+        <translation>WICHTIG: Alle vorherigen Wallet-Sicherungen sollten durch die neu erzeugte, verschlüsselte Wallet ersetzt werden. Aus Sicherheitsgründen werden vorherige Sicherungen der unverschlüsselten Wallet nutzlos, sobald Du die neue, verschlüsselte Wallet verwendest.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -279,7 +279,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Die Wallet-Verschlüsselung ist aufgrund eines internen Fehlers fehlgeschlagen. Ihre Wallet wurde nicht verschlüsselt.</translation>
+        <translation>Die Wallet-Verschlüsselung ist aufgrund eines internen Fehlers fehlgeschlagen. Deine Wallet wurde nicht verschlüsselt.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1268,7 +1268,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimiert die Anwendung anstatt sie zu beenden wenn das Fenster geschlossen wird. Wenn dies aktiviert ist, müssen Sie das Programm über &quot;Beenden&quot; im Menü schließen.</translation>
+        <translation>Minimiert die Anwendung anstatt sie zu beenden wenn das Fenster geschlossen wird. Wenn dies aktiviert ist, musst Du das Programm über &quot;Beenden&quot; im Menü schließen.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1298,7 +1298,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Bitcoins angezeigt werden soll.</translation>
+        <translation>Wähle die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von PUTinCoins angezeigt werden soll.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1982,7 +1982,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Sie können Nachrichten mit ihren Adressen signieren, um den Besitz dieser Adressen zu beweisen. Bitte nutzen Sie diese Funktion mit Vorsicht und nehmen Sie sich vor Phishingangriffen in Acht. Signieren Sie nur Nachrichten, mit denen Sie vollständig einverstanden sind.</translation>
+        <translation>Du kannst Nachrichten mit Deinen Adressen signieren, um nachzuweisen, dass Du auch wirklich der Sender dieser Nachricht bist. Bitte nutze diese Funktion mit Vorsicht und nimm Dich sich vor Phishingangriffen in Acht. Signiere nur Nachrichten, mit denen Du vollständig einverstanden bist.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -2046,7 +2046,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Geben Sie die signierende Adresse, Nachricht (achten Sie darauf Zeilenumbrüche, Leerzeichen, Tabulatoren usw. exakt zu kopieren) und Signatur unten ein, um die Nachricht zu verifizieren. Vorsicht, interpretieren Sie nicht mehr in die Signatur, als in der signierten Nachricht selber enthalten ist, um nicht von einem Man-in-the-middle-Angriff hinters Licht geführt zu werden.</translation>
+        <translation>Gib die &quot;signierende Adresse&quot;, &quot;Nachricht&quot; (achte darauf Zeilenumbrüche, Leerzeichen, Tabulatoren usw. exakt zu kopieren bzw. einzugeben) und &quot;Signatur&quot; unten ein, um die Nachricht zu verifizieren. ACHTUNG: Schreibe nicht mehr in die Signatur, als in der signierten Nachricht selber enthalten ist, um nicht von einem Man-in-the-middle-Angriff hinters Licht geführt zu werden.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -2091,7 +2091,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>Bitte überprüfen Sie die Adresse und versuchen Sie es erneut.</translation>
+        <translation>Bitte überprüfe die Adresse und versuche es erneut.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2128,7 +2128,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>Bitte überprüfen Sie die Signatur und versuchen Sie es erneut.</translation>
+        <translation>Bitte überprüfe die Signatur und versuche es erneut.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2455,7 +2455,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Transaktionsstatus. Fahren Sie mit der Maus über dieses Feld, um die Anzahl der Bestätigungen zu sehen.</translation>
+        <translation>Transaktionsstatus! Bewege die Maus über dieses Feld, um die Anzahl der Bestätigungen zu sehen.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2845,7 +2845,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     <message>
         <location line="+61"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUTinCoin will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist PUTinCoin nicht richtig funktionieren.</translation>
+        <translation>ACHTUNG: Bitte prüfe ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum oder die Uhrzeit falsch sind, wird die PUTinCoin-Wallet möglicherweise nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2855,7 +2855,7 @@ Diese Anzeige wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Warnung: wallet.dat beschädigt, Rettung erfolgreich! Original wallet.dat wurde als wallet.{Zeitstempel}.dat in %s gespeichert. Falls ihr Kontostand oder Transaktionen nicht korrekt sind, sollten Sie von einer Datensicherung wiederherstellen.</translation>
+        <translation>ACHTUNG: wallet.dat beschädigt aber erfolgreich wiederhergestellt! Original wallet.dat wurde als wallet.{Zeitstempel}.dat in %s gespeichert. Falls Dein Kontostand oder die Transaktionen nicht korrekt sind, solltest Du die Wallet von einer Datensicherung wiederherstellen.</translation>
     </message>
     <message>
         <location line="-30"/>
@@ -3349,9 +3349,9 @@ zB.: alertnotify=echo %%s | mail -s &quot;PUTinCoin Serveralarm&quot; deine@emai
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>Sie müssen den Wert rpcpassword=&lt;passwort&gt; in der Konfigurationsdatei angeben:
+        <translation>Du musst den Wert rpcpassword=&lt;passwort&gt; in der Konfigurationsdatei angeben:
 %s
-Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Leserechten nur für den Dateibesitzer.</translation>
+Falls die Konfigurationsdatei nicht existiert, erzeuge diese bitte mit Leserechten nur für den Dateibesitzer.</translation>
     </message>
 </context>
 </TS>
