@@ -125,10 +125,10 @@
        <item>
         <widget class="QCheckBox" name="bitcoinAtStartup">
          <property name="toolTip">
-          <string>Automatically start PutinCoin after logging in to the system.</string>
+          <string>Automatically start PUTinCoin after logging in to the system.</string>
          </property>
          <property name="text">
-          <string>&amp;Start PutinCoin on system login</string>
+          <string>&amp;Start PUTinCoin on system login</string>
          </property>
         </widget>
        </item>
@@ -155,7 +155,7 @@
        <item>
         <widget class="QCheckBox" name="mapPortUpnp">
          <property name="toolTip">
-          <string>Automatically open the PutinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</string>
+          <string>Automatically open the PUTinCoin client port on the router. This only works when your router supports UPnP and it is enabled.</string>
          </property>
          <property name="text">
           <string>Map port using &amp;UPnP</string>
@@ -165,7 +165,7 @@
        <item>
         <widget class="QCheckBox" name="connectSocks">
          <property name="toolTip">
-          <string>Connect to the PutinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</string>
+          <string>Connect to the PUTinCoin network through a SOCKS proxy (e.g. when connecting through Tor).</string>
          </property>
          <property name="text">
           <string>&amp;Connect through SOCKS proxy:</string>
@@ -339,7 +339,7 @@
          <item>
           <widget class="QValueComboBox" name="lang">
            <property name="toolTip">
-            <string>The user interface language can be set here. This setting will take effect after restarting PutinCoin.</string>
+            <string>The user interface language can be set here. This setting will take effect after restarting PUTinCoin.</string>
            </property>
           </widget>
          </item>
@@ -372,7 +372,7 @@
        <item>
         <widget class="QCheckBox" name="displayAddresses">
          <property name="toolTip">
-          <string>Whether to show PutinCoin addresses in the transaction list or not.</string>
+          <string>Whether to show PUTinCoin addresses in the transaction list or not.</string>
          </property>
          <property name="text">
           <string>&amp;Display addresses in transaction list</string>
